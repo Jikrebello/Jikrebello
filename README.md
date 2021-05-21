@@ -6,7 +6,7 @@
 
 🌱 I’m currently still expanding my C# repertoire and enjoy learning about new design patterns and anything Object Orientated, as well as T-SQL.
 
-- 📫 How to reach me: You can contact my on my email at jikrebello.za@gmail.com
+- 📫 How to reach me: You can contact me on my email at jikrebello.za@gmail.com
 
 <!---
 Jikrebello/Jikrebello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
