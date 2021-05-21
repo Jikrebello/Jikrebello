@@ -1,5 +1,7 @@
 👋 Hi, I’m James and this is my github.
 
+🎓 Got my Bachelor of Computer and Information Sciences in Game Design and Development from the IIE at Vega School Johannesburg.
+
 👀 I’m interested in anything C# related, in particular game development using Unity or the MonoGame framework but honestly I'm happy to learn about anything Code related, even if its out of my comfort zone.
 
 🌱 I’m currently still expanding my C# repertoire and enjoy learning about new design patterns and anything Object Orientated, as well as T-SQL.
