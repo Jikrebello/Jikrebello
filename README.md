@@ -2,7 +2,7 @@
 
 🎓 Got my Bachelor of Computer and Information Sciences in Game Design and Development from the IIE at Vega School Johannesburg.
 
-👀 I’m interested in anything C# related, and in particular game development using Unity or the MonoGame framework but am also currently getting stuck in with C++ and learning Azure and Amazon Web Services.
+👀 I’m interested in anything C# related, in particular game development using Unity or the MonoGame framework but am also currently getting stuck in with C++ and learning Azure and (AWS) Amazon Web Services.
 
 🌱 I’m currently expanding my C# and C++ repertoire, enjoying learning new design patterns and anything Object Orientated, as well as T-SQL.
 
