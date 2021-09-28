@@ -4,7 +4,7 @@
 
 👀 I’m interested in anything C# related, in particular game development using Unity or the MonoGame framework but am also currently getting stuck in with C++ and learning Azure and (AWS) Amazon Web Services.
 
-🌱 I’m currently expanding my C# and C++ repertoire, enjoying learning new design patterns and anything Object Orientated, as well as T-SQL.
+🌱 I’m currently expanding my C# and C++ repertoire, with my focus on learning new design patterns.
 
 - 📫 How to reach me: You can contact me on my email at jikrebello.za@gmail.com
 
