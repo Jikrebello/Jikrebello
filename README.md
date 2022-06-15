@@ -1,10 +1,10 @@
-👋 Hi, I’m James and this is my github.
+👋 Hi, I’m James and this is my Github.
 
-🎓 Got my Bachelor of Computer and Information Sciences in Game Design and Development from the IIE at Vega School Johannesburg.
+🎓 Got my Bachelor of Computer and Information Sciences in Game Design and Development from the IIE Vega School Johannesburg.
 
-👀 I’m interested in anything C#/ C++ related, in particular game development using Unity, the MonoGame framework, Unreal Engine and the SFML framework.
+👷‍♂️ Currently I'm a Junior Full Stack .NET developer at Devloop.
 
-🌱 I’m currently expanding my C# and C++ repertoire, with my focus on learning new design patterns. I plan on getting into the MERN stack for web development soon though!
+🌱 Outside of web development, I’m interested in C# and C++, in particular game development using Unity, Unreal Engine, and the SFML and RayLib frameworks.
 
 📫 How to reach me: You can contact me on my email at jikrebello.za@gmail.com
 
