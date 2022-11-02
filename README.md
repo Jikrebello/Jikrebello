@@ -2,9 +2,9 @@
 
 🎓 Got my Bachelor of Computer and Information Sciences in Game Design and Development from the IIE Vega School Johannesburg.
 
-👷‍♂️ Currently I'm a Junior Full Stack .NET developer at Devloop.
+👷‍♂️ Currently I'm a Junior Full Stack ASP.NET MVC developer at Devloop.
 
-🌱 Outside of web development, I’m interested in C# and C++, in particular game development using Unity, Unreal Engine, and the SFML and RayLib frameworks.
+🌱 Outside of web development, I’m interested in C#, C++ and GDscript for use in game development using Unity, Unreal Engine and the Godot Engine, and the SFML and RayLib frameworks.
 
 📫 How to reach me: You can contact me on my email at jikrebello.za@gmail.com
 
