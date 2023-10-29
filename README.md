@@ -4,7 +4,7 @@
 
 👷‍♂️ Currently I'm an intermidate Full-Stack Software Engineer at Bluerain Technologies.
 
-🌱 Outside of web development, I’m interested in C#, C++ and GDscript for use in game development using Unity, Unreal Engine and the Godot Engine, and the SFML and RayLib frameworks.
+🌱 Outside of Web development I’m interested in game development with the Stride game engine and am currently developing a 3D action platformer.
 
 📫 How to reach me: You can contact me on my email at jikrebello.za@gmail.com
 
