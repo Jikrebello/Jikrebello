@@ -2,9 +2,7 @@
 
 🎓 Got my Bachelor of Computer and Information Sciences in Game Design and Development from the IIE Vega School Johannesburg.
 
-👷‍♂️ Currently I'm an intermidate Full-Stack Software Engineer at Bluerain Technologies.
-
-🌱 Outside of Web development I’m interested in game development with the Stride game engine and am currently developing a 3D action platformer.
+🌱 Outside of Web development I’m interested in game development with the Stride game engine and am currently developing a 3D action platformer, as well as a multi-platform ERP.
 
 📫 How to reach me: You can contact me on my email at jikrebello.za@gmail.com
 
